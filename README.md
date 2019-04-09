@@ -5,4 +5,5 @@ Here you can play chess online with any control and with any number of opponents
 
 https://funnychase.com/
 
-"<img src="https://github.com/funnychase/play_chess-/blob/master/image1.png">">
+"<img src="https://github.com/funnychase/play_chess-/blob/master/image1.png">
+"<img src="https://github.com/funnychase/play_chess-/blob/master/image2.jpg">
